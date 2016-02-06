@@ -2,7 +2,7 @@ div.title {
     display: none;
     position: relative;
     text-align: center;
-    top: -420px;
+    top: -400px;
     color:white;
     letter-spacing: 6px;
     font-family: 'Helvetica';
@@ -19,6 +19,16 @@ body {
 
 .foto {
 	margin-left: 220px;
+}
+
+header {
+    color:white;
+    font-family:'helvetica';
+    float: center;
+    margin-top:80px;
+    font-size:20pt;
+    letter-spacing: 10px;
+    margin-left:470px;
 }
 
 
