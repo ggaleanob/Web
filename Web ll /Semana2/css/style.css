@@ -1,0 +1,24 @@
+div.title {
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -420px;
+    color:white;
+    letter-spacing: 6px;
+    font-family: 'Helvetica';
+    line-height: 2;
+}
+
+div.title:hover, a.wrapper:hover + div {
+    display: block;
+}
+
+body {
+    background-color: black;
+}
+
+.foto {
+	margin-left: 220px;
+}
+
+

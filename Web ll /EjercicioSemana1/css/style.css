@@ -1,0 +1,58 @@
+.container {
+	width:900px;
+	border: 1px solid black;
+	margin: 0 auto;
+	height:850px;
+}
+
+.picture {
+	width:400px;
+	height:300px;
+	float: left;
+	padding:20px;
+}
+
+.paragraph1 {
+	width:400px;
+	height:300px;
+	float:right;
+	padding:20px;
+	font-family: verdana;
+	text-align: center;
+}
+
+.paragraph2 {
+	width: 800px;
+	height: 300px;
+	float: center;
+	padding:20px;
+	font-family: verdana;
+	text-align: center;
+	margin-left: 30px;
+}
+
+.bottom {
+	margin-top:150px;
+	margin-left:120px;
+}
+
+.pic {
+	width: 200px;
+	height:300px;
+	padding:5px;
+}
+
+.pic2 {
+	width: 200px;
+	height:300px;
+	padding:5px;
+}
+
+.pic3 {
+	width: 200px;
+	height:300px;
+	padding:5px;
+}
+
+
+
