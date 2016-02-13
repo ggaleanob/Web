@@ -1,0 +1,29 @@
+.container {
+	margin-left:100px;
+	padding-top:10px;
+}
+
+a.button {
+    text-decoration: none;
+    font-family: helvetica;
+    color: black;
+    padding:10px;
+    background-color: white;
+    border-radius: 25px; 
+    margin-left: 20px;
+    letter-spacing: 3px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+body {
+	background: url(../images/bey.jpg) no-repeat center center fixed; 
+}
+
+h1 {
+	color: white; 
+	margin-left:170px;
+	margin-top: 200px;
+	font-family: helvetica;
+	font-weight: lighter;
+}
