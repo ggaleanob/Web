@@ -1,0 +1,23 @@
+  p {
+		    background: black;
+		    color:white;
+		    font-family: 'Gill Sans';
+		    font-weight: lighter;
+		    letter-spacing: 8px;
+		    font-size: 50px;
+		    text-align: center;
+		    margin-top:250px;
+}
+
+html {
+	background-color: black;
+}
+
+button {
+	font-size: 10px;
+	margin-left: 600px;
+	background-color:black;
+	color:white;
+	border:none;
+
+}

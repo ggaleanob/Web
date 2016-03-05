@@ -1,0 +1,24 @@
+div{
+		    position: absolute;
+		    border: 1px solid white;
+		    background-color:#000;
+		    left: 50px;
+		    width: 90px;
+		    height: 90px;
+		    margin: 5px;
+		  }
+
+html {
+	background-color:black;
+}
+
+button {
+	border:black;
+	background-color:black;
+	color:white;
+	font-size: 60px;
+}
+
+#right {
+	float:right;
+}
