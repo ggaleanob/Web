@@ -1,0 +1,46 @@
+body {
+    background: url(../images/boobs.jpg) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+
+.row { 
+	margin-left: 500px;
+	margin-top: 300px;
+	letter-spacing: 1px;
+	color:black;
+	}
+
+.container {
+	font-family: helvetica;
+}
+
+.paragraph {
+	width: 550px;
+	font-family: helvetica;
+	font-weight: lighter;
+}
+
+h1 {
+	font-family: helvetica;
+
+}
+
+p {
+	background-color: white;
+}
+
+label {
+	background-color: white;
+}
+
+h1, h2 {
+	background-color: white;
+	color: red;
+}
+
+button{
+ 	color:red;
+ 	margin-top: 5px;
+ 	margin-bottom: 50px;
+ }
