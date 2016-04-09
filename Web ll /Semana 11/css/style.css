@@ -1,0 +1,44 @@
+body {
+    background: url(../images/schiele.jpeg) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+
+h1 { 
+	color: white;
+	font-family: helvetica;
+	font-weight: bolder;
+}
+
+p {
+	color:#D63534;
+	line-height: 27px;
+}
+
+.btn { 
+	background-color: white;
+	border-color:white;
+	color: #D63534;
+	font-family: helvetica;
+}
+
+.btn:hover {
+	background-color: #D63534;
+	border-color:transparent;
+	color:white;
+	font-family: helvetica;
+}
+
+.container {
+	margin-left: 70px;
+	margin-top: 10px;
+}
+
+.modal-content{
+	color:#D63534;
+	padding:50px;
+}
+
+.modal {
+	margin-top: 70px;
+}
